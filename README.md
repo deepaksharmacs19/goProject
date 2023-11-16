@@ -1,8 +1,9 @@
 # goProject
-An API having endpoints to signup, login, and perform CRUD operations on notes for a specific user <br>
+An API having endpoints to signup, login, and perform CRUD operations on notes for a specific user.
 In this API, I have used a data structure instead of a database.
 I have used Postman for testing this API.
 These are the ways to use Postman for testing it:
+
 Signup:
 
 Set the request type to POST.
