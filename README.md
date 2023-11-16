@@ -1,15 +1,15 @@
 # goProject
-An API having endpoints to signup, login and for performing CRUD operations on notes for specific user.
-
-I have used postman for testing this API.
-These are the ways to use postman for testing it : 
+An API having endpoints to signup, login, and perform CRUD operations on notes for a specific user <br>
+In this API, I have used a data structure instead of a database.
+I have used Postman for testing this API.
+These are the ways to use Postman for testing it:
 Signup:
 
 Set the request type to POST.
 Enter the URL: http://localhost:8080/signup.
 Set the request body to raw and select JSON (application/json).
 Enter the JSON data for signup:
-json like this : 
+JSON like this:
 {
   "name": "Deepak Sharma",
   "email": "deepakatunique@gmail.com",
